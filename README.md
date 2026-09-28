@@ -35,3 +35,6 @@ Afficher l'historique en graphe quand c'est pertinent.
 1. <hash> :
 2. <hash> :
 3. <hash> :
+Une ligne de Ange-Kevin good luck
+Je viens de mettre plus de détails sur instructions de akig
+ Ajout d'une ligne au commentaire dans le readme pour la requete pr2
