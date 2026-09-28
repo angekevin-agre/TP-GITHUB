@@ -36,3 +36,4 @@ Afficher l'historique en graphe quand c'est pertinent.
 2. <hash> :
 3. <hash> :
 Une ligne de Ange-Kevin good luck
+Je viens de mettre plus de détails sur instructions de akig
