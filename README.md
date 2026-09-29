@@ -6,7 +6,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 ## Niveau 1
 1. Configuration Git
 (capture)
-2. Branche de travail
+2. Branche de travail  
 (capture)
 3. Historique des commits
 (capture)
