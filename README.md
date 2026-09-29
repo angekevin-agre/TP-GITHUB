@@ -74,17 +74,26 @@
 
 ## Bonus: Amélioration du design
 
-Amélioration du design et des styles du site.
+### Description
 
-Étapes:
-- Créer la branche feature/ameliorer-design
+Amélioration du design et des styles du site pour une meilleure présentation visuelle.
+
+Changements:
+
 - Amélioration des couleurs et espacements
-- Fusion sur le repo personnel et PR vers le prof
+- Meilleure lisibilité des éléments
+- Design plus moderne et cohérent
 
-Captures:
+### Étapes réalisées
 
-![Création de la PR bonus](captures/bonus/1-pr-creation-bonus.png)
+#### 1. Créer une branche feature
 
-![Merge de la PR bonus](captures/bonus/2-pr-merge-bonus.png)
+![Création de la branche feature](captures/bonus/1-pr-creation-bonus.png)
 
-![PR finale du bonus](captures/bonus/3-pr_final_de_bonus.png)
+#### 2. Fusionner la PR sur le repo personnel
+
+![Fusion de la PR #7](captures/bonus/2-pr-merge-bonus.png)
+
+#### 3. Demande de fusion vers le repo du prof (upstream)
+
+![PR #22 vers le repo du prof](captures/bonus/3-pr_final_de_bonus.png)
