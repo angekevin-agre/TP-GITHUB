@@ -87,11 +87,11 @@ Changements:
 #### 1. Créer une branche feature
 ![Création de la branche feature](captures/bonus/1-pr-creation-bonus.png)
 
-#### 2. Merger la PR sur le repo personnel
-![Merge de la PR #7](captures/bonus/2-pr-merge-bonus.png)
+#### 2. Fusionner la PR sur le repo personnel
+![Fusion de la PR #7](captures/bonus/2-pr-merge-bonus.png)
 
-#### 3. PR vers le repo du prof (upstream)
-![PR #22 vers le prof](captures/bonus/3-pr_final_de_bonus.png)
+#### 3. Demande de fusion vers le repo du prof (upstream)
+![PR #22 vers le repo du prof](captures/bonus/3-pr_final_de_bonus.png)
 
 ### Résultat
-Pull request #22 créée sur le repo du prof pour contribution au projet original.
+Demande de fusion #22 créée sur le repo du prof pour contribution au projet d'origine.
