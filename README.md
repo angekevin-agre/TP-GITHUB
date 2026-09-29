@@ -71,3 +71,27 @@
 ### Manip 5 : PR qui ferme une issue
 
 ![PR closes issue](captures/niveau_2/pr_closes_issue.png)
+
+## Bonus: Amélioration du design
+
+### Description
+Amélioration du design et des styles du site pour une meilleure présentation visuelle.
+
+Changements:
+- Amélioration des couleurs et espacements
+- Meilleure lisibilité des éléments
+- Design plus moderne et cohérent
+
+### Étapes réalisées
+
+#### 1. Créer une branche feature
+![Création de la branche feature](captures/bonus/1-pr-creation-bonus.png)
+
+#### 2. Merger la PR sur le repo personnel
+![Merge de la PR #7](captures/bonus/2-pr-merge-bonus.png)
+
+#### 3. PR vers le repo du prof (upstream)
+![PR #22 vers le prof](captures/bonus/3-pr_final_de_bonus.png)
+
+### Résultat
+Pull request #22 créée sur le repo du prof pour contribution au projet original.
